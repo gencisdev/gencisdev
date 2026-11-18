@@ -9,7 +9,6 @@
 Construo produtos digitais para o mercado angolano — web, PWA e Android — do ecrã à base de dados.
 
 [![Biskato](https://img.shields.io/badge/Biskato-marketplace%20de%20servi%C3%A7os-C8102E?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://biskatoao.vercel.app)
-[![APK](https://img.shields.io/badge/Android-APK%201.0.0-3DDC84?style=for-the-badge&logo=android&logoColor=111)](https://github.com/gencisdev/Biskatoao-App/releases/latest)
 [![Email](https://img.shields.io/badge/email-orgbiskato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:orgbiskato@gmail.com)
 
 </div>
@@ -34,7 +33,6 @@ Construo produtos digitais para o mercado angolano — web, PWA e Android — do
 
 <p>
   <a href="https://biskatoao.vercel.app"><b>🌐 Ver site</b></a> ·
-  <a href="https://github.com/gencisdev/Biskatoao-App/releases/latest"><b>📱 Descarregar APK</b></a> ·
   <a href="https://github.com/gencisdev/Biskatoao-App"><b>💻 Código</b></a>
 </p>
 
@@ -57,7 +55,7 @@ Construo produtos digitais para o mercado angolano — web, PWA e Android — do
 
 | Projecto | O que é | Onde |
 | --- | --- | --- |
-| **Biskato** | Marketplace de serviços em Luanda: app, PWA e Android. | [Código](https://github.com/gencisdev/Biskatoao-App) · [Site](https://biskatoao.vercel.app) · [APK](https://github.com/gencisdev/Biskatoao-App/releases/latest) |
+| **Biskato** | Marketplace de serviços em Luanda: app, PWA e Android. | [Código](https://github.com/gencisdev/Biskatoao-App) · [Site](https://biskatoao.vercel.app) |
 | **biskato-site** | Página pública do Biskato, com contagem de visitas. | [Código](https://github.com/gencisdev/biskato-site) · [Site](https://biskatoao.vercel.app) |
 
 ## Como trabalho
